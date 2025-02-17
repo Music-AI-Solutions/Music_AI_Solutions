@@ -89,5 +89,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📫 Contact
 For questions, suggestions, or feedback, feel free to reach out at:
 
-Email: your.email@example.com
-GitHub: Kenni Velez
+Email: sqaisolutions@gmail.com
+GitHub: @kennivelez
